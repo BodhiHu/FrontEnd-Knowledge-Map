@@ -4,6 +4,7 @@
 
 
 - [Frontend Knowledge and Training](#frontend-knowledge-and-training)
+  - [Start Learning the Web Fundamentals](#start-learning-the-web-fundamentals)
   - [Knowledge Map](#knowledge-map)
     - [Overall view](#overall-view)
     - [Engineering Stacks](#engineering-stacks)
@@ -17,7 +18,6 @@
       - [Ionic Framework / Cordova](#ionic-framework--cordova)
       - [ReactNative](#reactnative)
       - [flutter](#flutter)
-  - [Start Learning the Web Fundamentals](#start-learning-the-web-fundamentals)
 
 Also see knowledge maps of:<br/>
 * [Server](./Server/readme.md)
@@ -25,6 +25,28 @@ Also see knowledge maps of:<br/>
   * Nodejs / Nestjs, Eggjs, ...
 * [DB](./DB/readme.md)
   * SQL
+
+## Start Learning the Web Fundamentals
+
+To learn the web fundamentals, we can goto the [W3Schools](https://www.w3schools.com) site which had very good courses on the web fundamental technologies (HTML/CSS/JS/NodeJS/Java/SQL, and many more...)
+
+• [HTML](https://www.w3schools.com/html/default.asp)<br/>
+• [CSS](https://www.w3schools.com/css/default.asp)<br/>
+• [JavaScript](https://www.w3schools.com/js/default.asp)<br/>
+• [Sass](https://www.w3schools.com/sass/default.php)<br/>
+• [jQuery](https://www.w3schools.com/jquery/default.asp)<br/>
+• [NodeJs](https://www.w3schools.com/nodejs/default.asp)<br/>
+• [MySQL](https://www.w3schools.com/mysql/default.asp)<br/>
+• [React](https://www.w3schools.com/react/default.asp)<br/>
+• [Python](https://www.w3schools.com/python/default.asp)<br/>
+• ...
+
+<br/>
+
+**To practise and test yourself:**
+
+[Exercises](https://www.w3schools.com/exercises/index.php)
+
 
 ## Knowledge Map
 
@@ -69,23 +91,3 @@ Also see knowledge maps of:<br/>
 #### flutter
 <img src="./imgs/flutter.png" />
 
-## Start Learning the Web Fundamentals
-
-To learn the web fundamentals, we can goto the [W3Schools](https://www.w3schools.com) site which had very good courses on the web fundamental technologies (HTML/CSS/JS/NodeJS/Java/SQL, and many more...)
-
-• [HTML](https://www.w3schools.com/html/default.asp)
-• [CSS](https://www.w3schools.com/css/default.asp)
-• [JavaScript](https://www.w3schools.com/js/default.asp)
-• [Sass](https://www.w3schools.com/sass/default.php)
-• [jQuery](https://www.w3schools.com/jquery/default.asp)
-• [NodeJs](https://www.w3schools.com/nodejs/default.asp)
-• [MySQL](https://www.w3schools.com/mysql/default.asp)
-• [React](https://www.w3schools.com/react/default.asp)
-• [Python](https://www.w3schools.com/python/default.asp)
-• ...
-
-<br/>
-
-**To practise and test yourself:**
-
-[Exercises](https://www.w3schools.com/exercises/index.php)
